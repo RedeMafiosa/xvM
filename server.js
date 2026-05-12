@@ -11,7 +11,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // webhook Discord (COLOCA AQUI O TEU LINK)
-const webhookURL = "SEU_WEBHOOK_AQUI";
+const webhookURL = "https://discord.com/api/webhooks/1503760282546077916/f7-AvZ61hYJaZRaIRUAp9qCohoZE2OWz9w-sjsRcsO2tpNBm7p0f3em4P2TkLFqLxFRg";
 
 // servir ficheiros do site (css, js, imagens)
 app.use(express.static(__dirname));
